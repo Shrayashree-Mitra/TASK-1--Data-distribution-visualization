@@ -1,5 +1,4 @@
 # TASK-1--Data-distribution-visualization
-Task 01 of the Prodigy InfoTech Data Science Internship focused on analyzing and visualizing data distribution using Python for exploration and Power BI for insights
 
 # Overview
 This project analyzes the distribution of global population across different income groups using cleaned World Bank population data for the year 2022.
